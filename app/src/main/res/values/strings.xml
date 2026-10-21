@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV 客户端</string>
+    <string name="set_source">直播源</string>
+    <string name="set_epg">EPG</string>
+    <string name="hint_set_source">请点击右上角"直播源"填入 M3U 地址</string>
+    <string name="loading">加载频道列表…</string>
+    <string name="loaded_n">已加载 %1$d 个频道（遥控器上下键换台）</string>
+    <string name="load_failed">加载失败：%1$s</string>
+    <string name="loading_epg">加载节目单…</string>
+    <string name="epg_failed">EPG 加载失败：%1$s</string>
+</resources>
